@@ -5,9 +5,11 @@
 
 The graduation project is one of the strongest projects I have worked on, which I am now using to publish in paper
 This project is powerful because it gave me many experiences and made me more familiar with transformers, as it was divided into three very important parts:
+
 (1) sentiment analysis
 (2)topic classification
 (3)recommended action
+
 The project begins with the fact that the Egyptian citizen enters any organization and is exposed to a bad situation, so he wants to convey this complaint to the competent authorities.
 Here we have created a site that takes complaints, and here we start the stages of the project, which is to take written words in colloquial Egyptian Arabic.
 here the process of searching for the appropriate data for this project began, and we found it very difficult to find the appropriate data, so we did the process of web scraping with some other data that needed terrible work in preprocessing, in order to train the different models in the different stages to work the required purpose.
