@@ -1,0 +1,12 @@
+https://paperswithcode.com/area/natural-language-processing
+
+
+https://huggingface.co/models
+
+
+https://huggingface.co/datasets
+
+
+https://www.kaggle.com/datasets
+
+..............................................
